@@ -4,12 +4,11 @@ Aplicação serve para você controlar sua rotina e seus habitos diários.
 ### Tecnologias
 
 - React
-- ReactNative
-- Node
-- Typescript
-- Vite
-- Fastify
-- TailwindCSS
+- React Native
+- Node.js
+- TypeScript
+- Expo
+- Tailwind
 
 ### Como utilizar em seu localhost:
 - Baixe o projeto
